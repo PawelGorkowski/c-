@@ -11,12 +11,13 @@ namespace revArray
     {
         static int[] reverseArray(int N, int[] arr)
         {
+            N--;
             int start = 0;
-            while (start < N - 1)
+            while (start < N)
             {
                 int temp = arr[start];
-                arr[start] = arr[N - 1];
-                arr[N - 1] = temp;
+                arr[start] = arr[N];
+                arr[N] = temp;
                 start++;
                 N--;
             }
