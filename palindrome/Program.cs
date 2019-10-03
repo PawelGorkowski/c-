@@ -21,6 +21,7 @@ namespace palindrome
 
         static void Main(string[] args)
         {
+
             isPalindrome("abut-1-tuba");
             isPalindrome("@allula");
         }

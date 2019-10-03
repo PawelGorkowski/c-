@@ -1,0 +1,11 @@
+C:\Users\Reaper\Desktop\coding\c#\permutation\obj\Debug\netcoreapp3.0\permutation.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\coding\c#\permutation\obj\Debug\netcoreapp3.0\permutation.AssemblyInfoInputs.cache
+C:\Users\Reaper\Desktop\coding\c#\permutation\obj\Debug\netcoreapp3.0\permutation.AssemblyInfo.cs
+C:\Users\Reaper\Desktop\coding\c#\permutation\bin\Debug\netcoreapp3.0\permutation.exe
+C:\Users\Reaper\Desktop\coding\c#\permutation\bin\Debug\netcoreapp3.0\permutation.deps.json
+C:\Users\Reaper\Desktop\coding\c#\permutation\bin\Debug\netcoreapp3.0\permutation.runtimeconfig.json
+C:\Users\Reaper\Desktop\coding\c#\permutation\bin\Debug\netcoreapp3.0\permutation.runtimeconfig.dev.json
+C:\Users\Reaper\Desktop\coding\c#\permutation\bin\Debug\netcoreapp3.0\permutation.dll
+C:\Users\Reaper\Desktop\coding\c#\permutation\bin\Debug\netcoreapp3.0\permutation.pdb
+C:\Users\Reaper\Desktop\coding\c#\permutation\obj\Debug\netcoreapp3.0\permutation.dll
+C:\Users\Reaper\Desktop\coding\c#\permutation\obj\Debug\netcoreapp3.0\permutation.pdb
