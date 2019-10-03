@@ -1,0 +1,11 @@
+C:\Users\Reaper\Desktop\coding\c#\palindrome\bin\Debug\netcoreapp3.0\palindrome.exe
+C:\Users\Reaper\Desktop\coding\c#\palindrome\bin\Debug\netcoreapp3.0\palindrome.deps.json
+C:\Users\Reaper\Desktop\coding\c#\palindrome\bin\Debug\netcoreapp3.0\palindrome.runtimeconfig.json
+C:\Users\Reaper\Desktop\coding\c#\palindrome\bin\Debug\netcoreapp3.0\palindrome.runtimeconfig.dev.json
+C:\Users\Reaper\Desktop\coding\c#\palindrome\bin\Debug\netcoreapp3.0\palindrome.dll
+C:\Users\Reaper\Desktop\coding\c#\palindrome\bin\Debug\netcoreapp3.0\palindrome.pdb
+C:\Users\Reaper\Desktop\coding\c#\palindrome\obj\Debug\netcoreapp3.0\palindrome.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\coding\c#\palindrome\obj\Debug\netcoreapp3.0\palindrome.AssemblyInfoInputs.cache
+C:\Users\Reaper\Desktop\coding\c#\palindrome\obj\Debug\netcoreapp3.0\palindrome.AssemblyInfo.cs
+C:\Users\Reaper\Desktop\coding\c#\palindrome\obj\Debug\netcoreapp3.0\palindrome.dll
+C:\Users\Reaper\Desktop\coding\c#\palindrome\obj\Debug\netcoreapp3.0\palindrome.pdb
