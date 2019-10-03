@@ -1,0 +1,11 @@
+C:\Users\Reaper\Desktop\coding\c#\revArray\bin\Debug\netcoreapp3.0\revArray.exe
+C:\Users\Reaper\Desktop\coding\c#\revArray\bin\Debug\netcoreapp3.0\revArray.deps.json
+C:\Users\Reaper\Desktop\coding\c#\revArray\bin\Debug\netcoreapp3.0\revArray.runtimeconfig.json
+C:\Users\Reaper\Desktop\coding\c#\revArray\bin\Debug\netcoreapp3.0\revArray.runtimeconfig.dev.json
+C:\Users\Reaper\Desktop\coding\c#\revArray\bin\Debug\netcoreapp3.0\revArray.dll
+C:\Users\Reaper\Desktop\coding\c#\revArray\bin\Debug\netcoreapp3.0\revArray.pdb
+C:\Users\Reaper\Desktop\coding\c#\revArray\obj\Debug\netcoreapp3.0\revArray.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\coding\c#\revArray\obj\Debug\netcoreapp3.0\revArray.AssemblyInfoInputs.cache
+C:\Users\Reaper\Desktop\coding\c#\revArray\obj\Debug\netcoreapp3.0\revArray.AssemblyInfo.cs
+C:\Users\Reaper\Desktop\coding\c#\revArray\obj\Debug\netcoreapp3.0\revArray.dll
+C:\Users\Reaper\Desktop\coding\c#\revArray\obj\Debug\netcoreapp3.0\revArray.pdb
