@@ -11,7 +11,7 @@ namespace revArray
     {
         static int[] reverseArray(int N, int[] arr)
         {
-            N--;
+            N--;                //0-based index
             int start = 0;
             while (start < N)
             {
