@@ -10,7 +10,11 @@ namespace revArray
     class Program
     {
         static int[] reverseArray(int N, int[] arr)
-        {
+        {/*
+            You can simply use:
+            Array.Reverse(array);
+            or..
+         */
             N--;                //0-based index
             int start = 0;
             while (start < N)
