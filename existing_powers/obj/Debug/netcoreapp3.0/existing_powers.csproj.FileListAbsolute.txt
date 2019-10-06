@@ -1,0 +1,11 @@
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\bin\Debug\netcoreapp3.0\existing_powers.exe
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\bin\Debug\netcoreapp3.0\existing_powers.deps.json
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\bin\Debug\netcoreapp3.0\existing_powers.runtimeconfig.json
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\bin\Debug\netcoreapp3.0\existing_powers.runtimeconfig.dev.json
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\bin\Debug\netcoreapp3.0\existing_powers.dll
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\bin\Debug\netcoreapp3.0\existing_powers.pdb
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\obj\Debug\netcoreapp3.0\existing_powers.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\obj\Debug\netcoreapp3.0\existing_powers.AssemblyInfoInputs.cache
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\obj\Debug\netcoreapp3.0\existing_powers.AssemblyInfo.cs
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\obj\Debug\netcoreapp3.0\existing_powers.dll
+C:\Users\Reaper\Desktop\coding\c#\existing_powers\obj\Debug\netcoreapp3.0\existing_powers.pdb
